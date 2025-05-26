@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Design portfolio</h1>
-	<h3><a href=https://himneja64.github.io/design_portfolio1>💻사이트 이동하기💻</a></h3>
+	<h3><a target="_blank" href="https://clone-1-xi.vercel.app/">💻사이트 이동하기💻</a></h3>
 	<p>HTML, CSS, Emmit, Js Libraries를 활용하여 작업한 반응형 웹페이지입니다.</p>
 </div>
 <br/>
@@ -39,7 +39,7 @@
 			<td>동작 이전</td><td>동작 이후</td>
 		</tr>
 		<tr>
-			<td><img src="https://github.com/user-attachments/assets/b069f0a6-38fb-4ae4-9b81-97178c28e63d" alt="window size-mobile" /></td><td><img src="https://github.com/user-attachments/assets/3ad59cb0-abe9-4665-867f-4396e9f45327" alt="window size-mobile" /></td>
+			<td><img src="https://github.com/user-attachments/assets/a26a0d5c-f021-4bac-8374-edfe73903054" alt="window size-mobile" /></td><td><img src="https://github.com/user-attachments/assets/5eb7a247-b48d-44c2-9379-9d2afe9b0c18" alt="window size-mobile" /></td>
 		</tr>
 	</table>
 </details>
@@ -89,7 +89,7 @@
 			<td>동작 이전</td><td>동작 이후</td>
 		</tr>
 		<tr>
-			<td><img src="https://github.com/user-attachments/assets/71f8fc4e-bb01-4e27-a64c-6f01e772b108" alt="gnb no active" /></td><td><img src="https://github.com/user-attachments/assets/aed3da53-6b0b-4175-bd75-4ced48a1a992" alt="gnb active" /></td>
+			<td><img src="https://github.com/user-attachments/assets/5dcc7be3-96cf-4758-afee-5feff639d582" alt="gnb no active" /></td><td><img src="https://github.com/user-attachments/assets/987d1fef-22d9-4108-9d61-ef06b86e5d09" alt="gnb active" /></td>
 		</tr>
 	</table>
 </details>
@@ -174,7 +174,7 @@
 			<td>동작</td>
 		</tr>
 		<tr>
-			<td><video src="https://github.com/user-attachments/assets/029d4194-50df-4f3b-bf20-0e6085fd4d6d" controls muted controlsList="nodownload" playsinline loop /></video></td>
+			<td><img src="https://github.com/user-attachments/assets/9ce06e5f-479e-4277-ad9b-652151df544c" alt="preview_gif" /></td>
 		</tr>
 	</table>
 </details>
